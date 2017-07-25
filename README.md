@@ -1,2 +1,3 @@
 # CodeSnippets
-A basket of different Code Snippets
+A basket of different Code Snippets which were developed
+
